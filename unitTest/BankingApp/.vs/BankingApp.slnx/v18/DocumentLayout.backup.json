@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro Training\\Practice\\unitTest\\BankingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8087E5AC-850F-4A60-9845-7EB35C2007F9}|BankingApp.csproj|d:\\wipro training\\practice\\unittest\\bankingapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8087E5AC-850F-4A60-9845-7EB35C2007F9}|BankingApp.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C18C69D-6570-48EB-9192-47E535AE7EDA}|..\\BankingApp.Tests\\BankingApp.Tests.csproj|d:\\wipro training\\practice\\unittest\\bankingapp.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\BankingApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\BankingApp\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T03:50:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\BankingApp.Tests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "..\\BankingApp.Tests\\BankAccountTests.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\BankingApp.Tests\\BankAccountTests.cs",
+              "RelativeToolTip": "..\\BankingApp.Tests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T03:48:38.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

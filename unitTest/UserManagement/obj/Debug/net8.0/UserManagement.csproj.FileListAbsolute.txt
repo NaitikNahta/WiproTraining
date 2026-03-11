@@ -1,0 +1,11 @@
+D:\Wipro Training\Practice\unitTest\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+D:\Wipro Training\Practice\unitTest\UserManagement\bin\Debug\net8.0\UserManagement.dll
+D:\Wipro Training\Practice\unitTest\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.dll
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+D:\Wipro Training\Practice\unitTest\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll

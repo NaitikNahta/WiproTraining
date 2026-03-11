@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB6B2DE-CB86-478B-90A5-4588D02C6134}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|d:\\wipro training\\practice\\unittest\\usermanagement.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB6B2DE-CB86-478B-90A5-4588D02C6134}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|d:\\wipro training\\practice\\unittest\\usermanagement.tests\\usermanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|d:\\wipro training\\practice\\unittest\\usermanagement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|solutionrelative:userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|d:\\wipro training\\practice\\unittest\\usermanagement\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|solutionrelative:iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|d:\\wipro training\\practice\\unittest\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69EC39C-5566-4A80-B943-A2E56DAF238A}|UserManagement.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagement.Tests",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement.Tests\\UserManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\UserManagement.Tests.csproj",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement.Tests\\UserManagement.Tests.csproj",
+              "RelativeToolTip": "..\\UserManagement.Tests\\UserManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T04:07:55.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\UserService.cs",
+              "RelativeToolTip": "UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:07:15.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "IUserRepository.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\IUserRepository.cs",
+              "RelativeToolTip": "IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:06:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:06:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement.Tests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\UserServiceTests.cs",
+              "ToolTip": "D:\\Wipro Training\\Practice\\unitTest\\UserManagement.Tests\\UserServiceTests.cs*",
+              "RelativeToolTip": "..\\UserManagement.Tests\\UserServiceTests.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvy8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:03:28.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

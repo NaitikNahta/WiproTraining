@@ -1,0 +1,4 @@
+2026-02-27 15:44:41.125 +05:30 [INF] User Registered Successfully
+2026-02-27 15:44:41.249 +05:30 [INF] Login Successful
+2026-02-27 15:44:41.255 +05:30 [INF] Data Encrypted Successfully
+2026-02-27 15:44:41.257 +05:30 [INF] Data Decrypted Successfully

@@ -1,0 +1,12 @@
+D:\Wipro Training\Calculator\bin\Debug\net10.0\Calculator.deps.json
+D:\Wipro Training\Calculator\bin\Debug\net10.0\Calculator.dll
+D:\Wipro Training\Calculator\bin\Debug\net10.0\Calculator.pdb
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.csproj.AssemblyReference.cache
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.dll
+D:\Wipro Training\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+D:\Wipro Training\Calculator\obj\Debug\net10.0\Calculator.pdb
+D:\Wipro Training\Calculator\obj\Debug\net10.0\ref\Calculator.dll
