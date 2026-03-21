@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# .NET
+bin/
+obj/
+.vs/
+
+# Logs
+*.log
+
+# User-specific
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
