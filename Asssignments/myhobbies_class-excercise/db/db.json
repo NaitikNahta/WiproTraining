@@ -1,0 +1,30 @@
+{
+  "hobbies": [
+    {
+      "id": "1",
+      "name": "Cricket",
+      "isFavourite": false
+    },
+    {
+      "id": "2",
+      "name": "Coding",
+      "isFavourite": false
+    },
+    {
+      "id": "3",
+      "name": "Reading",
+      "isFavourite": false
+    },
+    {
+      "name": "Music",
+      "isFavourite": true,
+      "id": "Df9XNzlT5SY"
+    },
+    {
+      "name": "Trading",
+      "isFavourite": true,
+      "id": "TYiQntqOhwc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
