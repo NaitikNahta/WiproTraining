@@ -1,0 +1,17 @@
+<div class="section-card">
+  <h2>Add New Hobby</h2>
+
+  @if (successMsg) {
+    <div class="success-msg">{{ successMsg }}</div>
+  }
+
+  <div class="input-group">
+    <input
+      type="text"
+      [(ngModel)]="newHobby"
+      placeholder="Enter your hobby..."
+      (keyup.enter)="onAdd()"
+    />
+    <button (click)="onAdd()">Add Hobby</button>
+  </div>
+</div>

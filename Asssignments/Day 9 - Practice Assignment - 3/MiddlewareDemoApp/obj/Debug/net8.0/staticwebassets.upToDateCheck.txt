@@ -1,3 +1,0 @@
-wwwroot\style.css
-wwwroot\index.html
-wwwroot\script.js

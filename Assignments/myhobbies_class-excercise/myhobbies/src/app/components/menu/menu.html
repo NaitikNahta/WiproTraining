@@ -1,0 +1,19 @@
+<nav class="menu-nav">
+  <button
+    [class.active]="activeButton === 'myhobbies'"
+    (click)="onButtonClick('myhobbies')">
+    My Hobby
+  </button>
+
+  <button
+    [class.active]="activeButton === 'newhobby'"
+    (click)="onButtonClick('newhobby')">
+    Add New Hobby
+  </button>
+
+  <button
+    [class.active]="activeButton === 'favhobbies'"
+    (click)="onButtonClick('favhobbies')">
+    My Favourite Hobbies
+  </button>
+</nav>

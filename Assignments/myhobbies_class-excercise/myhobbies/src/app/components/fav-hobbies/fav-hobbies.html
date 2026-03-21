@@ -1,0 +1,16 @@
+<div class="section-card">
+  <h2>My Favourite Hobbies</h2>
+
+  @if (favHobbies.length === 0) {
+    <p class="empty-msg">No favourites yet. Click ☆ Fav on any hobby!</p>
+  }
+
+  <div class="fav-grid">
+    @for (hobby of favHobbies; track hobby) {
+      <div class="fav-card">
+        <span class="star">⭐</span>
+        <span>{{ hobby.name }}</span>
+      </div>
+    }
+  </div>
+</div>

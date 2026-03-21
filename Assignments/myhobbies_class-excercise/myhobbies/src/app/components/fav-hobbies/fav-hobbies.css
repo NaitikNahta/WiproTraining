@@ -1,0 +1,48 @@
+.section-card {
+  background: white;
+  border-radius: 10px;
+  padding: 28px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  margin-bottom: 4px;
+  border-bottom: 2px solid #e74c3c;
+  padding-bottom: 8px;
+}
+
+.subtitle {
+  color: #999;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.fav-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.fav-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(135deg, #fff8e1, #fff3cd);
+  border: 1px solid #ffe082;
+  padding: 14px 18px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.star {
+  font-size: 20px;
+}
+
+.empty-msg {
+  color: #999;
+  font-style: italic;
+}

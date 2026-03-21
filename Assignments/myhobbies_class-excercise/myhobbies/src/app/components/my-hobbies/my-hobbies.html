@@ -1,0 +1,41 @@
+<div class="section-card">
+  <h2>My Hobbies</h2>
+
+  @if (hobbies.length === 0) {
+    <p class="empty-msg">No hobbies added yet.</p>
+  }
+
+  <ul class="hobby-list">
+    @for (hobby of hobbies; track hobby.id) {
+      <li class="hobby-item">
+
+        @if (editingId === hobby.id) {
+          <div class="edit-row">
+            <input
+              type="text"
+              [(ngModel)]="editingValue"
+              (keyup.enter)="onSave(hobby)"
+              (keyup.escape)="onCancel()"
+            />
+            <button class="save-btn"   (click)="onSave(hobby)">Save</button>
+            <button class="cancel-btn" (click)="onCancel()">Cancel</button>
+          </div>
+        }
+
+        @if (editingId !== hobby.id) {
+          <div class="hobby-row">
+            <span>🎯 {{ hobby.name }}</span>
+            <div class="action-btns">
+              <button class="fav-btn"    (click)="onToggleFav(hobby)">
+                {{ hobby.isFavourite ? '⭐ Unfav' : '☆ Fav' }}
+              </button>
+              <button class="edit-btn"   (click)="onEdit(hobby)">✏️ Edit</button>
+              <button class="delete-btn" (click)="onDelete(hobby.id!)">🗑 Delete</button>
+            </div>
+          </div>
+        }
+
+      </li>
+    }
+  </ul>
+</div>

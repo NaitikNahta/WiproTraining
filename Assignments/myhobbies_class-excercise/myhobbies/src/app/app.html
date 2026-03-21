@@ -1,0 +1,10 @@
+<app-menu (buttonClicked)="onButtonClicked($event)"></app-menu>
+
+<app-home
+  [activeView]="activeView"
+  [hobbies]="hobbies"
+  (hobbyAdded)="onHobbyAdded($event)"
+  (hobbyDeleted)="onHobbyDeleted($event)"
+  (hobbyUpdated)="onHobbyUpdated($event)"
+  (hobbyFavToggled)="onHobbyFavToggled($event)">
+</app-home>

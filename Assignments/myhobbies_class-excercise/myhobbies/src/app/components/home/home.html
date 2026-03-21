@@ -1,0 +1,18 @@
+<div class="home-container">
+  @if (activeView === 'myhobbies') {
+    <app-my-hobbies
+      [hobbies]="hobbies"
+      (hobbyDeleted)="onHobbyDeleted($event)"
+      (hobbyUpdated)="onHobbyUpdated($event)"
+      (hobbyFavToggled)="onHobbyFavToggled($event)">
+    </app-my-hobbies>
+  }
+
+  @if (activeView === 'newhobby') {
+    <app-new-hobby (hobbyAdded)="onHobbyAdded($event)"></app-new-hobby>
+  }
+
+  @if (activeView === 'favhobbies') {
+    <app-fav-hobbies [hobbies]="hobbies"></app-fav-hobbies>
+  }
+</div>
