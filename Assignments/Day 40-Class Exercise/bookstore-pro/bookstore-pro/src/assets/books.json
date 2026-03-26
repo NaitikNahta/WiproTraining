@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 499,
+    "publishedDate": "2018-10-16",
+    "description": "An easy and proven way to build good habits and break bad ones using small daily improvements.",
+    "imageUrl": "https://via.placeholder.com/120x170?text=Book+1"
+  },
+  {
+    "id": 2,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 399,
+    "publishedDate": "1988-01-01",
+    "description": "A philosophical novel about following your dreams, listening to your heart, and discovering your personal legend.",
+    "imageUrl": "https://via.placeholder.com/120x170?text=Book+2"
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 699,
+    "publishedDate": "2008-08-01",
+    "description": "A practical handbook of agile software craftsmanship focused on writing readable, maintainable, and clean code.",
+    "imageUrl": "https://via.placeholder.com/120x170?text=Book+3"
+  },
+  {
+    "id": 4,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "price": 599,
+    "publishedDate": "2016-01-05",
+    "description": "Rules for focused success in a distracted world, showing how deep concentration produces high-value results.",
+    "imageUrl": "https://via.placeholder.com/120x170?text=Book+4"
+  }
+]

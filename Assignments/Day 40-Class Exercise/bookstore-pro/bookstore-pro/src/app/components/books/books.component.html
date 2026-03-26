@@ -1,0 +1,36 @@
+<div class="books-container">
+  <h1>BookStore Pro</h1>
+  <p class="subtitle">Advanced Angular Directives, Pipes, HTTP & Observables Demo</p>
+
+  <section class="section-box">
+    <h2>1. Manual Subscribe + Cleanup</h2>
+    <p class="section-note">
+      This section uses manual <code>subscribe()</code> in the component and
+      <code>unsubscribe()</code> in <code>ngOnDestroy()</code>.
+    </p>
+
+    <app-book-card
+      *ngFor="let book of manualBooks"
+      [book]="book">
+    </app-book-card>
+  </section>
+
+  <section class="section-box">
+    <h2>2. Async Pipe Usage</h2>
+    <p class="section-note">
+      This section uses the <code>async</code> pipe directly in the template.
+    </p>
+
+    <div *ngIf="books$ | async as asyncBooks">
+      <div class="async-grid">
+        <div class="async-card" *ngFor="let book of asyncBooks">
+          <h3>{{ book.title | uppercase }}</h3>
+          <p><strong>Price:</strong> {{ book.price | currency:'INR':'symbol':'1.2-2' }}</p>
+          <p><strong>Date:</strong> {{ book.publishedDate | date:'mediumDate' }}</p>
+          <p><strong>Description:</strong> {{ book.description | slice:0:50 }}...</p>
+          <p><strong>15% Off:</strong> {{ book.price | discount:15 | currency:'INR':'symbol':'1.2-2' }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

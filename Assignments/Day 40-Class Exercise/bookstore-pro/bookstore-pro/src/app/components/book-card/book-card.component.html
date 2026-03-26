@@ -1,0 +1,17 @@
+<div class="book-card" *ngIf="book">
+  <div class="book-image-wrap">
+    <img [src]="book.imageUrl" [alt]="book.title" class="book-image">
+  </div>
+
+  <div class="book-details">
+    <h3>{{ book.title | uppercase }}</h3>
+    <p><strong>Author:</strong> {{ book.author }}</p>
+    <p><strong>Price:</strong> {{ book.price | currency:'INR':'symbol':'1.2-2' }}</p>
+    <p>
+      <strong>Discounted Price:</strong>
+      {{ book.price | discount:15 | currency:'INR':'symbol':'1.2-2' }}
+    </p>
+    <p><strong>Published:</strong> {{ book.publishedDate | date:'longDate' }}</p>
+    <p><strong>Description:</strong> {{ book.description | slice:0:50 }}...</p>
+  </div>
+</div>
